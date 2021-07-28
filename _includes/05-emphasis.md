@@ -1,5 +1,5 @@
-*This text will be italic :*
-_HY MY NAME IS JERRY_
+*This portfolio is managed by :*
+_JERRY S GEORGE_
 
-**This text will be bold :**
-__HY MY NAME IS JERRY__
+**Contact for enquires:**
+__jerrysgeorge2001@gmail.com__

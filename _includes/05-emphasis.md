@@ -1,5 +1,5 @@
-*This text will be italic :*
-_HY MY NAME IS JERRY_
+*OWNED BY*
+_JERRY S GEORGE_
 
-**This text will be bold :**
-__HY MY NAME IS JERRY__
+**Contact via mail**
+__jerrysgeorge2001@gmail.com__
